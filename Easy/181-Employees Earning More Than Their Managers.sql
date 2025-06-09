@@ -17,10 +17,3 @@ FROM Employee AS employee
 JOIN Employee AS manager
   ON employee.managerId = manager.id
 WHERE employee.salary > manager.salary;
-
-
-SELECT employee.name AS Employee
-FROM Employee employee
-JOIN Employee manager
-ON employee.managerId = manager.Id
-WHERE employee.salary > manager.salary;
