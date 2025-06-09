@@ -88,4 +88,4 @@ Throughout the solutions, I’ve applied key SQL techniques:
 ---
 
 Feel free to fork, use, and share!
-Happy querying! 🚀
+Happy querying! 
