@@ -34,14 +34,6 @@ I wanted to:
 
 ---
 
-## Bonus Notes
-
-You can also check out:
-- [`notes/sql-tips.md`](notes/sql-tips.md) – handy tips I’ve picked up
-- [`notes/favorite-patterns.md`](notes/favorite-patterns.md) – recurring query tricks that help a lot
-
----
-
 ## Who Is This For?
 
 - Beginners learning SQL
