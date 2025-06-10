@@ -2,7 +2,6 @@
 -- Difficulty: Easy
 -- Link: https://leetcode.com/problems/duplicate-emails/
 
-
 -- What this teaches:
 --   - GROUP BY to count occurrences of a column.
 --   - Using subqueries to isolate aggregated data.
